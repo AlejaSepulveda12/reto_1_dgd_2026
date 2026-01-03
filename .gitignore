@@ -1,0 +1,8 @@
+*checkpoint*
+
+# Archivos de datos temporales
+landing/*
+!landing/.gitkeep
+
+# Logs
+*.log
